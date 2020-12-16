@@ -1,1 +1,2 @@
-["git make wget" "leiningen clojure"]
+git make wget
+leiningen clojure
