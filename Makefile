@@ -2,7 +2,8 @@ repl:
 	lein repl
 	make $@
 
-MERGE += README.md Makefile project.clj src
+MERGE += README.md Makefile apt.txt .vscode
+MERGE += project.clj src
 
 master:
 	git checkout $@
