@@ -2,7 +2,7 @@ repl:
 	lein repl
 	make $@
 
-MERGE += Makefile project.clj src
+MERGE += README.md Makefile project.clj src
 
 master:
 	git checkout $@
