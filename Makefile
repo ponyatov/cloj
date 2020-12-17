@@ -59,7 +59,7 @@ master:
 	git checkout shadow -- $(MERGE)
 .PHONY: shadow
 shadow:
-	git pull -v
+	git push -v
 	git checkout $@
 	git pull -v
 .PHONY: release
