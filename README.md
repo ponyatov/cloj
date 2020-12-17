@@ -15,6 +15,7 @@ github: https://github.com/ponyatov/cloj
     * embedded Linux (Buildroot)
     * Cortex-M embedded devices (STM32)
 * final programming model:
+    * bootstrap via system self-application
     * distributed object runtime for Web and IoT applications
     * language model mixes elements of Smalltalk, Python, Elixir, and Clojure
 
