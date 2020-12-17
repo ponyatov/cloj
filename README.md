@@ -1,44 +1,34 @@
-# cloj
+#  `cloj`
+## `()()` metalanguage in Clojure
 
-FIXME: description
+github: https://github.com/ponyatov/cloj
 
-## Installation
+* host language: Clojure
+* multiple target languages:
+    * Python | Django
+    * Erlang/Elixir | Phoenix
+    * Rust
+    * embedded C/C++
+* deployment platforms:
+    * embedded Linux (Buildroot)
+    * VPS / generic Linux
 
-Download from http://example.com/FIXME.
+### Clojure
 
-## Usage
+* https://www.youtube.com/watch?v=ciGyHkDuPAE
+* [Введение в Clojure](http://alexott.net/ru/clojure/clojure-intro/)
 
-FIXME: explanation
+###  Python
+#### Django
 
-    $ java -jar cloj-0.1.0-standalone.jar [args]
+###  Erlang/Elixir
+#### Phoenix
 
-## Options
+### Rust
 
-FIXME: listing of options this app accepts.
+### embedded C/C++
 
-## Examples
+* Cortex-M (STM32)
+* embedded Linux
 
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2020 FIXME
-
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
+### embedded Linux (Buildroot)

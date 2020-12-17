@@ -1,0 +1,5 @@
+git make curl
+leiningen clojure
+python3 python3-venv
+erlang elixir
+build-essential tcc
