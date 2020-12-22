@@ -3,7 +3,8 @@
         "stkb.rewrap",
         // "tabnine.tabnine-vscode",
         /* \ <section:extensions> */
-        "avli.clojure",
+        // "avli.clojure",
+        "betterthantomorrow.calva",
         /* / <section:extensions> */
     ]
 }

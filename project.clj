@@ -5,3 +5,7 @@
   :main ^:skip-aot cloj.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})
+  ;; :license {:author "Dmitry Ponyatov"
+  ;;           :email  "dponyatov@gmail.com"
+  ;;           :year   2020}  
+  ;; :dev-dependencies [[lein-license "0.1.8"]]
